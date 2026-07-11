@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Attada+Sita+Rathnam;AI+%26+Machine+Learning+Student;Java+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Attada+Sita+Rathnam" />
 
-<h3>Artificial Intelligence & Machine Learning Student | Java Developer | AI Enthusiast</h3>
+<h3>Artificial Intelligence & Machine Learning Student | Salesforce Developer | Java Developer</h3>
 
 <p>
 
-<img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge"/>
 
@@ -22,15 +24,16 @@
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, and Salesforce**
+💡 Passionate about **Artificial Intelligence, Machine Learning, Salesforce, and Java Development**
 
 🌱 Currently learning
 
 - Machine Learning
 - Deep Learning
-- Salesforce
+- Salesforce Development & CRM
+- Java
 
-🚀 Interested in building AI-powered applications that solve real-world problems.
+🚀 Interested in building **AI-powered applications** and **Salesforce solutions** that solve real-world problems.
 
 🤝 Open to Internship & Collaboration Opportunities.
 
@@ -40,7 +43,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,vscode,salesforce"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 </p>
 
@@ -56,18 +65,6 @@ Machine Learning model for predicting credit card approval.
 
 ### 🔒 Secure AI
 Privacy-Preserving Middleware for Large Language Models.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sita645&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sita645&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -91,16 +88,6 @@ Privacy-Preserving Middleware for Large Language Models.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sita645&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -119,17 +106,15 @@ Privacy-Preserving Middleware for Large Language Models.
 
 # 💻 Coding Profiles
 
-> Add these after you create your profiles.
-
-- 💛 LeetCode
-- 💙 HackerRank
-- 💚 CodeChef
+- 💛 LeetCode *(Coming Soon)*
+- 💙 HackerRank *(Coming Soon)*
+- 💚 CodeChef *(Coming Soon)*
 
 ---
 
 # 📜 Certifications
 
-📂 View all my certificates here:
+📂 **View all my certifications here:**
 
 **➡️ https://github.com/Sita645/Certificates**
 

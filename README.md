@@ -2,43 +2,96 @@
 
 <h3 align="center">AI & Machine Learning Student | Java Developer | AI Enthusiast</h3>
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sita645&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sita645&layout=compact&theme=tokyonight)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Attada+Sita+Rathnam;AI+%26+Machine+Learning+Student;Java+Developer;Open+Source+Learner)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=Sita645&color=blue)
-
-🌱 I’m currently learning **Machine Learning, Deep Learning, and Generative AI**
-
-💻 I enjoy building **AI, Web Development, and Java** projects.
-
-📫 Reach me at: **your_email@gmail.com**
-
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Java+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👩‍💻 About Me
 
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- React
-- Machine Learning
-- MySQL
-- Git & GitHub
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI, Machine Learning, and Full Stack Development
+- 🌱 Currently learning **Deep Learning, Generative AI, and React**
+- 🚀 Interested in solving real-world problems using AI
+- 🤝 Open to internships and collaborative projects
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,express,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 💳 Credit Card Approval Prediction
-- 🏥 MedIntel
-- 🔒 Privacy Shield AI
-- 🛡️ Secura
+🔹 **MedIntel** – AI-Powered Healthcare Records Management
+
+🔹 **Credit Card Approval Prediction** – Machine Learning Classification Project
+
+🔹 **Privacy Shield AI** – Privacy-Preserving Middleware for LLMs
+
+🔹 **Secura** – Women Safety & Cyber Security Solution
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sita645&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sita645&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sita645&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sita645&theme=tokyonight&margin-w=15"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sita645&color=blue&style=for-the-badge)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Learning today, building tomorrow."* 🚀
+
+</div>

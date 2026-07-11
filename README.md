@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Attada+Sita+Rathnam" />
-
-<h3>Artificial Intelligence & Machine Learning Student | Salesforce Developer | Java Developer</h3>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=5000&pause=5000&repeat=false&center=true&vCenter=true&color=00C2FF&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Attada+Sita+Rathnam" />
 <p>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>

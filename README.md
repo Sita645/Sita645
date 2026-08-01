@@ -1,12 +1,22 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=5000&pause=5000&repeat=false&center=true&vCenter=true&color=00C2FF&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Attada+Sita+Rathnam" />
-<p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Attada+Sita+Rathnam;Salesforce+Developer+%7C+AI+%26+ML+Student;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+<h3 align="center">
+Salesforce Developer • AI & ML Student • Enterprise Application Builder
+</h3>
 
-<img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge"/>
+<p align="center">
+Building scalable Salesforce CRM solutions and AI-powered applications that solve real-world business problems.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Salesforce-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial-Intelligence-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine-Learning-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge"/>
 
@@ -18,69 +28,147 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Machine Learning**
+🎓 B.Tech in **Computer Science Engineering (Artificial Intelligence & Machine Learning)**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Salesforce, and Java Development**
+💼 Aspiring **Salesforce Developer** with hands-on experience in building CRM solutions using **Apex, SOQL, Flow Builder, and Lightning Web Components (LWC)**.
 
-🌱 Currently learning
+🤖 Passionate about developing **AI-powered applications**, enterprise software, and solving real-world business problems.
 
-- Machine Learning
-- Deep Learning
-- Salesforce Development & CRM
-- Java
+🌱 Continuously learning modern cloud technologies while strengthening my software engineering skills.
 
-🚀 Interested in building **AI-powered applications** and **Salesforce solutions** that solve real-world problems.
+🎯 **Career Goal:** Become a Salesforce Developer capable of building scalable enterprise applications by combining CRM and Artificial Intelligence.
 
-🤝 Open to Internship & Collaboration Opportunities.
+---
+
+# 🚀 Current Focus
+
+- ☁️ Salesforce Development
+- ⚡ Apex Programming
+- 🌩 Lightning Web Components (LWC)
+- 🔄 Flow Builder Automation
+- 📊 SOQL & Data Modeling
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Java Programming
+- 📚 Salesforce Developer Interview Preparation
+
+---
+
+# 🌱 Learning Journey
+
+```text
+CRM Fundamentals        ██████████ 100%
+
+SOQL                    ██████████ 70%
+
+Flow Builder            █████████░ 90%
+
+Apex                    ████████░░ 80%
+
+Lightning Web Components ██████░░░░ 60%
+
+Salesforce DX           █████░░░░░ 50%
+
+AI & Machine Learning   █████████░ 70%
+```
 
 ---
 
 # 🚀 Tech Stack
 
+## Programming Languages
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql"/>
 
 </p>
 
+## Frontend
+
 <p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+</p>
+
+## Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+## Salesforce
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 </p>
 
----
 
-# 📌 Featured Projects
-
-### 🏥 MedIntel
-AI-Powered Healthcare Records Management Platform
-
-### 💳 Credit Card Approval Prediction
-Machine Learning model for predicting credit card approval.
-
-### 🔒 Secure AI
-Privacy-Preserving Middleware for Large Language Models.
 
 ---
 
-# 🔥 GitHub Streak
+# 💼 Featured Projects
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sita645&theme=tokyonight"/>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| 🏨 **Hotel Management System** | Salesforce CRM application with Booking, Room Management, Flow Automation, Apex & Reports |
+| 👨‍💼 **Recruitment Management System** | Recruitment automation using Custom Objects, Flows, Validation Rules and Reports |
+| 💳 **Credit Card Approval Prediction** | Machine Learning model using Random Forest for credit approval prediction |
+| 🔒 **Secure AI** | Privacy-preserving middleware for secure Large Language Model interactions |
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
+🏅 Salesforce Developer Learning Journey
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sita645&theme=tokyo-night"/>
+🥈 Code Slayer Hackathon Runner-up
 
-</p>
+🏅 SmartBridge AI & ML Internship
+
+🏅 Vice President – BUILD Club
+
+🏅 Multiple NPTEL Certifications
+
+🏅 Built AI & Salesforce Projects
+
+---
+
+# 📜 Certifications
+
+📂 **GitHub Repository**
+
+➡️ https://github.com/Sita645/Certificates
+
+🏅 NPTEL – Python
+
+🏅 NPTEL – Advanced R Programming
+
+🏅 Salesforce Trailhead
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Master Salesforce Development
+- ✅ Complete Salesforce Bootcamp Projects
+- ✅ Build Enterprise CRM Applications
+- ✅ Earn More Trailhead Badges
+- ✅ Learn Salesforce DX
+- ✅ Improve Data Structures & Algorithms
+- ✅ Contribute to Open Source
 
 ---
 
@@ -89,11 +177,19 @@ Privacy-Preserving Middleware for Large Language Models.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sita-rathnam-attada-671432303">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 <a href="mailto:sitarathnamattada@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/lljc5cbi5d4swb1zqx" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
 </a>
 
 </p>
@@ -102,17 +198,11 @@ Privacy-Preserving Middleware for Large Language Models.
 
 # 💻 Coding Profiles
 
-- 💛 LeetCode *(Coming Soon)*
-- 💙 HackerRank *(Coming Soon)*
-- 💚 CodeChef *(Coming Soon)*
+🟡 LeetCode *(Coming Soon)*
 
----
+🔵 HackerRank *(Coming Soon)*
 
-# 📜 Certifications
-
-📂 **View all my certifications here:**
-
-**➡️ https://github.com/Sita645/Certificates**
+🟢 CodeChef *(Coming Soon)*
 
 ---
 
@@ -128,8 +218,10 @@ Privacy-Preserving Middleware for Large Language Models.
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 💙 Thank You for Visiting!
 
-### *"Learning today. Building tomorrow. Growing every day."* 🚀
+*"Learning today. Building tomorrow. Growing every day."* 🚀
+
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
